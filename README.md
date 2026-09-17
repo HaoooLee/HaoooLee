@@ -2,21 +2,24 @@
 
 # Lee Haooo
 
-**Machine Learning · Data Science · LLM / Agent Systems**
+**Machine Learning · Data Science · LLM / Agent Systems**  
+**Causal Inference · Dynamical Systems · AI for Science**
 
 M.S. in Artificial Intelligence @ Jilin University
 
-**Seeking internship opportunities in Machine Learning, Data Science, and LLM / Agent Systems.**
+**Open to internship opportunities in ML, Data Science, LLM / Agent Systems, and AI for Science.**
 
 </div>
 
+---
+
 ## About
 
-I am an M.S. student in Artificial Intelligence at Jilin University. My work sits at the intersection of **machine learning, causal inference, dynamical systems, and AI for Science**.
+I am an M.S. student in Artificial Intelligence at Jilin University, working across **machine learning, causal modeling, dynamical systems, and LLM systems**.
 
-My current research focuses on recovering **causal gene regulatory networks** from perturbation and multi-omic data, combining causal response modeling with stochastic dynamical systems. I also build and study **LLM / agent systems**, with an emphasis on reliable workflows, evaluation, and research engineering.
+My current research focuses on learning **causal gene regulatory networks** from perturbation and multi-omic data by combining biological priors, causal response modeling, and stochastic dynamics. In parallel, I build and study **LLM / agent systems**, with an emphasis on reliable workflows, evaluation, and research engineering.
 
-## Technical Focus
+## Focus
 
 - **Machine Learning & Data Science** — statistical modeling, optimization, experimentation, evaluation, and scientific data analysis
 - **LLM & Agent Systems** — tool use, agent workflows, retrieval, orchestration, automation, and evaluation
@@ -26,22 +29,23 @@ My current research focuses on recovering **causal gene regulatory networks** fr
 ## Selected Work
 
 ### Causal Dynamics for Gene Regulatory Networks
-Current research on learning causal regulatory structure from perturbation and multi-omic data by combining biological priors, causal response modeling, and stochastic dynamical systems.
+Research on recovering causal regulatory structure from perturbation and multi-omic data using **causal response modeling + stochastic dynamical systems + biological priors**.
 
 ### [Awesome Graph Engineering](https://github.com/HaoooLee/Awesome-Graph-Engineering)
-A research collection on **Graph Engineering for LLM agents**, covering model intelligence, individual agents, and system-level intelligence.
+Research collection accompanying work on **Graph Engineering for LLM agents**, spanning model intelligence, individual agents, and system-level intelligence.
 
 ### [AI Pulse](https://github.com/HaoooLee/ai-pulse)
-An automated AI research intelligence system for tracking researchers, papers, and open-source developments with LLM-assisted analysis and GitHub Actions.
+Automated AI research intelligence system for tracking researchers, papers, and open-source developments with **LLM-assisted analysis and GitHub Actions**.
 
 ### [Grok Bot 0.18 — Reconstructed](https://github.com/HaoooLee/grok-bot-0.18-reconstructed)
-A source-oriented reconstruction and systems research project covering agent runtime boundaries, inference routing, local execution, and provider integration.
+Systems-oriented reconstruction project covering **agent runtime boundaries, inference routing, local execution, and provider integration**.
 
-## Tech Stack
+## Toolkit
 
-**Python · PyTorch · scikit-learn · NumPy · Pandas · Linux · Git · Docker · GitHub Actions · vLLM**
+`Python` · `PyTorch` · `scikit-learn` · `NumPy` · `Pandas` · `vLLM` · `Linux` · `Git` · `Docker` · `GitHub Actions`
 
-## Currently Looking For
+## Currently
 
-I am seeking internship opportunities in **Machine Learning, Data Science, LLM / Agent Systems, and AI for Science**, especially roles involving real-world modeling, experimentation, research engineering, or scientific machine learning.
-
+- Researching causal dynamics for gene regulatory network recovery
+- Building and evaluating LLM / agent workflows
+- **Seeking internship opportunities** involving machine learning, data science, LLM systems, research engineering, or scientific machine learning
